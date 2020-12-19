@@ -4,7 +4,7 @@
     "description": "An Example of CodeIgniter 4 Front module",
     "require": {
         "php": ">=7.2",
-        "adnduweb/ci4_core": "*",
+        "adnduweb/ci4_core": "*"
     },
     "autoload": {
         "psr-4": {
